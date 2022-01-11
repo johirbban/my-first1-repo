@@ -1,0 +1,15 @@
+p{
+    color: blue;
+    background-color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-left: 10px 30px 20px;
+    border-color: saddlebrown;
+    border-radius: 30px;
+}
+h1{
+    color:seagreen;
+
+}
+h2{
+    color: slateblue;
+}
