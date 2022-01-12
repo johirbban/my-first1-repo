@@ -15,4 +15,8 @@ h1{
 }
 h2{
     color: slateblue;
+    background-color: darkcyan;
+    border: 10px 20px 30px;
+    border-radius: 10px;
+    
 }
